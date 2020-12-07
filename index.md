@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/btoulouse/Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Welcome to My Capstone Project 
 
 This ePortfolio has helped me to highlight the skills I have gained through the Computer Science program at Southern New Hampshire University. To be able to go through my past projects and select the ones that highlight and enhance the skills of my choice will help me to start my career. Putting all of thee projects together in a portfolio that is housed in GitHub has also given me more experience and knowledge in the collaborative environment that will help me work with members of my future team. The narratives helped me practice explaining projects in non-technical terms. I was able to pick projects that really highlighted my skills in data structures, algorithms, databases and software design and engineering. Revisiting these projects also helped me to find ways to make my programs more secure.  
 
-### Markdown
+### Software Design and Engineering:
+
+### Algorithm and Data Structures:
+### Database:
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 

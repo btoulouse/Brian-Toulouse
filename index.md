@@ -7,6 +7,8 @@ I’ve chosen three separate projects to include in my portfolio. To highlight m
 ### Software Design and Engineering:
 
 [Portfolio Mobile App Code Review](Link to go here)
+<br>
+[Portfolio Mobile App](https://github.com/btoulouse/mobileEPortfolio.git)
 
 This artifact was created in the class Mobile Architecture & Programing during the 20EW4 term. It is an app that works as a portfolio. It creates a user profile, that has user and login information stored in a SQlite database. It opens a few websites the user enters in their profile. It also uses the google maps API, it is also connected to the users LinkedIn profile. It also gives the user the ability to write and load text files, intended to be used as a bio for the user. Also, it lets the user enter events into the calendar already on their phone. 
 
@@ -16,11 +18,11 @@ I met all the planned improvements for this project, and I also made some enhanc
 
 I really enjoyed revisiting this project. This project was about halfway through my degree program. To come back to it now really helped me to realize how much I have improved as a developer. One thing I learned while improving this was to keep the design simple. It started off to complicated, now that I have simplified it, it has improved greatly. My main challenge also came from changing the design. The base code was mainly all already there. However, moving different functions to different pages, things got a lot more complicated then I was anticipating. I overcame this by getting organized. I made a flowchart in a note pad and used that as my reference. This project really helped me to practice and improve my ability to design and plan out a project. 
 
-[Portfolio Mobile App](https://github.com/btoulouse/mobileEPortfolio.git)
-
 ### Algorithm and Data Structures:
 
 [Data Structures and Algorithms Code Review](Link to go here)
+<br>
+[Data Structures and Algorithms](https://github.com/btoulouse/DataBaseandAlg)
 
 This artifact was made up of different lessons, labs and assignments from my Algorithms and Data Structures class. I took several different assignments and combined them into a bigger project. What it does is loads information from a csv file into different data structures which the user can pick. They can pick between a vector, a binary tree, and a hash table. Then depending on the data structure there are different actions they can take. Such as sorting in different ways, searching for a specific item etc. All these actions have a timer that tracks how long each action takes. This is so the user can compare the different data structures and different algorithms against one another. 
 
@@ -30,11 +32,11 @@ I did meet all the goals I set out to when I originally selected the enhancement
 
 The main issue I faced while working on this enhancement was not having access to the resource files. There was an issue of me unexpectedly losing access to the virtual desktop. I had all the cpp files I needed. But without the resource files I was not able to load any of the information into the data structures or test the program at all. I created the program as best as I could without being able to run it or do any testing. This really made me focus on what I was doing and why I was doing it. Then I went through the program testing it on paper, without really being able to run it. This was a tremendous learning opportunity, it forced me to work and look at the program in a new way. I was able to catch and fix a bunch of bugs so by the time I actually got the resource files I needed, everything worked pretty smoothly. 
 
-[Data Structures and Algorithms](https://github.com/btoulouse/DataBaseandAlg)
-
 ### Database: 
 
 [Database Code Review](Link to go here)
+<br>
+[MySQL Database](Link to go here)
 
 This artifact was originally created in the class DAD-220 Intro to SQL. It was created in the codio environment. It is a messaging database. It includes a few different tables some of which are joined to share information. It includes a person table, a contact table, a message table, and an image table. This was originally created in term 19EW3. I took this database and recreated it onto my local machine.
 
@@ -43,5 +45,3 @@ I selected this artifact because it displays a verity of skills. It shows a comm
 I did meet all the objectives I planned to meet with this enhancement. I was able to fully recreate the databased. I do not have any update to my outcome coverage plan. 
 
 I really enjoyed working on this artifact. It was nice to go back and work with MySQL again, it reinforced what I learned in that course. The main thing I learned working on this was installing and working with the MYSQL Workbench. Through most of my time at SNHU I worked on a remote desktop or through some online environment. I have learned a lot by having to go back to these old projects and install and learn how to work the environments on my local machine. 
-
-[MySQL Database](Link to go here)

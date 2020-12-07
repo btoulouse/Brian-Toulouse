@@ -4,6 +4,8 @@ You can use the [editor on GitHub](https://github.com/btoulouse/Portfolio/edit/g
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+This ePortfolio has helped me to highlight the skills I have gained through the Computer Science program at Southern New Hampshire University. To be able to go through my past projects and select the ones that highlight and enhance the skills of my choice will help me to start my career. Putting all of thee projects together in a portfolio that is housed in GitHub has also given me more experience and knowledge in the collaborative environment that will help me work with members of my future team. The narratives helped me practice explaining projects in non-technical terms. I was able to pick projects that really highlighted my skills in data structures, algorithms, databases and software design and engineering. Revisiting these projects also helped me to find ways to make my programs more secure.  
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -11,9 +13,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Software Design and Engineering:
+## Algorithm and Data Structures:
+### Database:
 
 - Bulleted
 - List

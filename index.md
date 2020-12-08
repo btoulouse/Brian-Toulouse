@@ -34,7 +34,7 @@ The main issue I faced while working on this enhancement was not having access t
 
 ### Database: 
 
-[Database Code Review](Link to go here)
+[Database Code Review](https://youtu.be/8vrVcwcBUjo)
 <br>
 [MySQL Database](https://github.com/btoulouse/MessagingDB)
 

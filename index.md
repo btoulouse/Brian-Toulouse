@@ -20,7 +20,7 @@ I really enjoyed revisiting this project. This project was about halfway through
 
 ### Algorithm and Data Structures:
 
-[Data Structures and Algorithms Code Review](Link to go here)
+[Data Structures and Algorithms Code Review](https://youtu.be/vGQPT4-X-t0)
 <br>
 [Data Structures and Algorithms](https://github.com/btoulouse/DataBaseandAlg)
 

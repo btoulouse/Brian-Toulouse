@@ -36,7 +36,7 @@ The main issue I faced while working on this enhancement was not having access t
 
 [Database Code Review](Link to go here)
 <br>
-[MySQL Database](Link to go here)
+[MySQL Database](https://github.com/btoulouse/MessagingDB)
 
 This artifact was originally created in the class DAD-220 Intro to SQL. It was created in the codio environment. It is a messaging database. It includes a few different tables some of which are joined to share information. It includes a person table, a contact table, a message table, and an image table. This was originally created in term 19EW3. I took this database and recreated it onto my local machine.
 
